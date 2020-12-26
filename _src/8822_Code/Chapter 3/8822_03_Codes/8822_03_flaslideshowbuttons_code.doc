@@ -1,0 +1,1 @@
+function stopShow(event:MouseEvent):void{	timer.stop();}function restartShow(event:MouseEvent):void{	timer.start();}stop_btn.addEventListener(MouseEvent.CLICK, stopShow);play_btn.addEventListener(MouseEvent.CLICK, restartShow);

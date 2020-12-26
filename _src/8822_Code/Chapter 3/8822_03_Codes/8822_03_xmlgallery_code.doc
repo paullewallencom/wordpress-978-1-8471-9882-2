@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<imageGallery>
+	<image> 
+		<picURL>images/pic01.jpg</picURL> 
+		<picW>320</picW> 
+		<picH>240</picH> 
+</image>
+	<image> 
+		<picURL>images/pic02.jpg</picURL>  
+		<picW>320</picW> 
+		<picH>240</picH>
+	</image>
+	<image> 
+		<picURL>images/pic03.jpg</picURL>  
+		<picW>320</picW> 
+		<picH>240</picH> 
+	</image>
+	<image> 
+		<picURL>images/pic04.jpg</picURL>  
+		<picW>320</picW> 
+		<picH>240</picH>
+	</image>
+	<image> 
+		<picURL>images/pic05.jpg</picURL>  
+		<picW>320</picW> 
+		<picH>240</picH>
+	</image>
+</imageGallery>
